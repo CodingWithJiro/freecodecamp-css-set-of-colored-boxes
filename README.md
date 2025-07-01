@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8072cb4f-1988-492f-8623-09842d7bc848/deploy-status)](https://set-of-colored-boxes-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-set-of-colored-boxes&left_text=repo%20views)
 
 ## ℹ️ A Set of Interactive Colored Boxes Page
 
