@@ -1,4 +1,4 @@
-# 💻 Set of Colored Boxes
+# Set of Colored Boxes
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,17 +17,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-set-of-colored-boxes&left_text=repo%20views)
 
-## ℹ️ A Set of Interactive Colored Boxes Page
+## A Set of Interactive Colored Boxes Page
 
 ![Screenshot of the project](./screenshot.png)
 
 A clean, responsive webpage that displays a set of interactive colored boxes using only HTML and CSS.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project consists of five uniquely colored boxes styled and aligned using modern CSS Flexbox. Each box includes hover animations to emphasize interactivity while maintaining a clean and minimal layout.
 
@@ -35,7 +35,7 @@ The layout adapts fluidly across screen sizes, switching from a horizontal arran
 
 ---
 
-## ✨ Features
+## Features
 
 - Clean and minimal structure using semantic HTML
 - Five uniquely styled colored boxes
@@ -47,7 +47,7 @@ The layout adapts fluidly across screen sizes, switching from a horizontal arran
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to use Flexbox to build responsive layouts
 - Creating reusable utility classes
@@ -58,7 +58,7 @@ The layout adapts fluidly across screen sizes, switching from a horizontal arran
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -68,23 +68,23 @@ The layout adapts fluidly across screen sizes, switching from a horizontal arran
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://set-of-colored-boxes-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://set-of-colored-boxes-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
